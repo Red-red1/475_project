@@ -29,9 +29,10 @@ The dataset is hosted separately on Kaggle and is **not included in this reposit
 
 ### Kaggle Dataset
 
-🔗 **Dataset Link:** <Link url="/kaggle/input/datasets/ahsanurparul/brinjal-460x460" title="CSE475 Group01 Dataset"/>
 
-🔗 **Main Dataset Link(mendeley):** <Link url="https://data.mendeley.com/datasets/ngc58fsxgd/1" title="BrinjalFruitX: A Field-Collected Image Dataset for Machine Learning and Deep Learning-Based Disease Identification in Brinjal Fruits"/>
+🔗 **Dataset Link:** [CSE475 Group01 Dataset (Brinjal 460×460)](https://www.kaggle.com/datasets/ahsanurparul/brinjal-460x460)
+
+🔗 **Main Dataset Link (Mendeley):** [BrinjalFruitX: A Field-Collected Image Dataset for Machine Learning and Deep Learning-Based Disease Identification in Brinjal Fruits](https://data.mendeley.com/datasets/ngc58fsxgd/1)
 
 ### Dataset Summary
 
